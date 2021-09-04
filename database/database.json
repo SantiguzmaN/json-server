@@ -1,0 +1,62 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "dueño": "santiago guzman arango",
+      "emailDueño": "satiagoguzmanarango@gmail.com"
+    },
+    {
+      "id": 2,
+      "dueño": "alberto",
+      "emailDueño": "arbelaez@alberto.com"
+    },
+    {
+      "id": 3,
+      "dueño": "",
+      "emailDueño": "",
+      "nombrePropietario": "santiago guzman arango",
+      "mailPropietario": "santiagoguzmanarango@gmail.com"
+    },
+    {
+      "id": 4,
+      "dueño": "",
+      "emailDueño": "",
+      "email": "email@autorizado.com"
+    },
+    {
+      "id": 5,
+      "dueño": "",
+      "emailDueño": ""
+    },
+    {
+      "id": 6,
+      "dueño": "",
+      "emailDueño": ""
+    },
+    {
+      "id": 7,
+      "dueño": null,
+      "emailDueño": null
+    },
+    {
+      "id": 8,
+      "dueño": "",
+      "emailDueño": ""
+    },
+    {
+      "id": 9,
+      "dueño": "pepito",
+      "emailDueño": "perez"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "propietario 1",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
