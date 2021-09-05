@@ -12,26 +12,23 @@
     },
     {
       "id": 3,
-      "dueño": "",
-      "emailDueño": "",
-      "nombrePropietario": "santiago guzman arango",
-      "mailPropietario": "santiagoguzmanarango@gmail.com"
+      "dueño": "santiago guzman",
+      "emailDueño": "santiguzman.0514@gmail.com"
     },
     {
       "id": 4,
-      "dueño": "",
-      "emailDueño": "",
-      "email": "email@autorizado.com"
+      "dueño": "autorizado",
+      "emailDueño": "email@autorizado.com"
     },
     {
       "id": 5,
-      "dueño": "",
-      "emailDueño": ""
+      "dueño": null,
+      "emailDueño": null
     },
     {
       "id": 6,
-      "dueño": "",
-      "emailDueño": ""
+      "dueño": null,
+      "emailDueño": null
     },
     {
       "id": 7,
@@ -40,8 +37,8 @@
     },
     {
       "id": 8,
-      "dueño": "",
-      "emailDueño": ""
+      "dueño": null,
+      "emailDueño": null
     },
     {
       "id": 9,
